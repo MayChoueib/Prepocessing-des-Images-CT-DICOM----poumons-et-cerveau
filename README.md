@@ -15,7 +15,8 @@ le preprocessing suivi est basé sur le tutorial de Guido zuidof : https://www.k
 
 Reconstruction 3D du CT-scans 
 
-<p align="center"><img src="images/3d_images.png" width="300" height="200" /></p> 
+<p align="center"><img src="images/3d_images.png" width="400" height="500" /></p> 
 
-
+<p align="center"><img src="images/3d_lung_CTscan.png" width="300" height="200" /></p> 
+<p align="center"><img src="images/3d_brain_CT_scan.png" width="300" height="200" /></p> 
 Reconstruction 3D des poumon set du cerveau -- EN COURS 
