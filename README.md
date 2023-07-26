@@ -15,7 +15,7 @@ le preprocessing suivi est basé sur le tutorial de Guido zuidof : https://www.k
 
 - Reconstruction 3D du CT-scans thorax et tete 
 
-<p align="center"><img src="images/3d_images.png" width="500" height="400" /></p> 
+<p align="center"><img src="images/3d_images.png" width="600" height="500" /></p> 
 
 Encore de bruits dans le CT-scan poumons!
 
