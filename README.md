@@ -13,10 +13,10 @@ le preprocessing suivi est basé sur le tutorial de Guido zuidof : https://www.k
 
 <p align="center"><img src="images/hu_lung.png" width="800" height="300" /></p>
 
-Reconstruction 3D du CT-scans 
+- Reconstruction 3D du CT-scans 
 
-<p align="center"><img src="images/3d_images.png" width="400" height="300" /></p> 
+<p align="center"><img src="images/3d_images.png" width="500" height="400" /></p> 
 
-<p align="center"><img src="images/3d_lung_CTscan.png" width="300" height="200" /></p> 
-<p align="center"><img src="images/3d_brain_CT_scan.png" width="300" height="200" /></p> 
-Reconstruction 3D des poumon set du cerveau -- EN COURS 
+Encore de signal bruité dans le CTscna poumons!
+
+- Reconstruction 3D des poumons et du cerveau -- EN COURS 
