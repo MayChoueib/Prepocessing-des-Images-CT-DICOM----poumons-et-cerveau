@@ -13,5 +13,8 @@ le preprocessing suivi est basé sur le tutorial de Guido zuidof : https://www.k
 
 <p align="center"><img src="images/hu_lung.png" width="800" height="100" /></p>
 
+Reconstruction 3D du CT-scans 
+<p align="center"><img src="images/3d_lung_CTscan.png" width="800" height="100" /></p> 
+<p align="center"><img src="images/3d_brain_CT_scan.png" width="800" height="100" /></p> 
 
 
