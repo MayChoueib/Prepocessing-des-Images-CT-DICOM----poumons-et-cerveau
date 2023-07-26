@@ -11,7 +11,7 @@ https://towardsdatascience.com/medical-image-pre-processing-with-python-d0769485
 - Un CT-scans thoracique de 99 slices d'un patient disponibles à l'adresse : https://www.kaggle.com/datasets/dmisky/dlwptvolumetricdicomlung   
 le preprocessing suivi est basé sur le tutorial de Guido zuidof : https://www.kaggle.com/code/gzuidhof/full-preprocessing-tutorial/notebook#Zero-centering   
 
-<p align="center"><img src="images/hu_lung.png" width="800" height="300" /></p>
+<p align="center"><img src="images/hu_lung.png" width="800" height="200" /></p>
 
 - Reconstruction 3D du CT-scans thorax et tete 
 
