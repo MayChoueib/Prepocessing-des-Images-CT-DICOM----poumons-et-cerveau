@@ -9,4 +9,4 @@ https://zenodo.org/record/1199398
 le preprocessing suivi est basé sur les références de l'article de E. SMERT : 
 https://towardsdatascience.com/medical-image-pre-processing-with-python-d07694852606
 
-<p align="center"><img src="images/brain_hu_os.png" width="600" height="400" /></p>
+<p align="center"><img src="images/brain_hu_os.png" width="800" height="200" /></p>
