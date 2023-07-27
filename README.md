@@ -1,4 +1,4 @@
-#  Prepocessing-des-Images-CT-scans - DICOM----poumons-et-cerveau----- EN COURS ….
+#  Prepocessing-des-Images-CT-scans - DICOM----poumons-et-cerveau
 Le but de ce notebook est de se familiariser avec le pre-processing des images médicales en format DICOM, une étape fondamentale dans tout processus de construction d'un modèle de machine ou deep learning. Les images de CT-scans utilisés:   
    
 - CT-scans du cerveau d'une vingtaine des patients de UCLH Stroke EIT Dataset disponibles à l'adresse :        
